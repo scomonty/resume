@@ -1,3 +1,3 @@
 # resume
 
-http://scomonty.github.io/resume/resume.html
+http://scomonty.github.io/resume.html
